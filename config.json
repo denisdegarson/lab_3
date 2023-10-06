@@ -1,0 +1,8 @@
+{
+  "input_file": "input.txt",
+  "target_language": "uk",
+  "output_destination": "file",
+  "character_count": 100,
+  "word_count": 312,
+  "sentence_count": 15
+}
